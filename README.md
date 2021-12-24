@@ -1,4 +1,4 @@
-[![sinu deploy to heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=Link)
+[![sinu deploy to heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Sinumallu/DonLee-Robot-V2)
 
 
 
